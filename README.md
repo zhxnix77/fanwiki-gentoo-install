@@ -15,7 +15,24 @@ Gentoo Linux es una distro que se enfoca en que obtengas el control total de tu 
 Depende de tus necesidades. Si te interesa aprender mas sobre el enfoque en Linux, esto puede llegar a ser util para tener un alto aprendizaje sobre como funciona linux ya que tu construyes tu sistema desde 0. En otros casos, si buscas personalizacion y control, igual puede ser util...
 
 ***
+# Prueba gentoo en una maquina virtual antes de instalarlo en un equipo
 
+| Maquina virtual                   |Compatible con:                    |
+|--------------------|--------------------|
+|qemu, libvirt                    |Linux, macOS, source code                    |
+|gnome-boxes                    |Linux                    |
+|VirtualBox                    |Linux, macOS, Windows 10 (en adelante)                    |
+|VMWARE                    |Linux, macOS, Windows 10 (en adelante)                    |
+
+# Requistos de Gentoo (recomendados)
+|Hardware              |Recomendado              |
+|--------------|--------------|
+|CPU              |AMD Ryzen 3, Intel Core i3, procesadores XEON, (procesadores con 4 nucleos y 8 hilos son suficientes _pero no garatiza una instalacion rapida)              |
+|RAM              |4 GB (en adelante)             |
+|Almacenamiento   | un SSD (con al menos 60 GB de almacenamiento)       |
+
+_⚠️ Estos requesitos son opcionales, ya que gentoo se puede instalar en cualquier hardware desde baja gama, hasta alta. Estos requisitos, pueden servir para adelantar el proceso de instalacion, pero no garantiza una instalacion rapida_
+***
 # Empieza hoy!!!
 [Centro de descargas de gentoo](https://www.gentoo.org/downloads/)
 [Manual de instalacion de gentoo linux](https://wiki.gentoo.org/wiki/Handbook:Main_Page)
