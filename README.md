@@ -1,5 +1,7 @@
 # fanwiki-gentoo-install
 _Instala gentoo mas facil sin tantas complicaciones (Puede no funcionar en todos los equipos. Esta pagina esta destinada a solo uso educativo y lo recomiendo hacerlo en maquina virtual)._
+
+Haz click aqui: [Wiki en español y en modo facil](https://github.com/zhxnix77/fanwiki-gentoo-install/wiki)
 ***
 # ¿Es facil instalar Gentoo?
 La respuesta es no y si, ¿Porque? Porque pues si tienes experiencia en Linux, puede que estes mas familiarizado con comandos como ```fdisk```, ```mkfs```, ```nmcli```, entre otras. Ademas, muchos usuarios experimentados decidimos usar una _Live GUI IMAGE_ en vez de usar la imagen ```ISO```de Gentoo. Los usuarios principiantes les puede resultar mas dificil el uso de comandos como ```mkfs```, entre otros; ya que no estan familiarizados con la terminal. 
@@ -15,5 +17,6 @@ Depende de tus necesidades. Si te interesa aprender mas sobre el enfoque en Linu
 ***
 
 # Empieza hoy!!!
-[Gentoo descargas](https://www.gentoo.org/downloads/)
+[Centro de descargas de gentoo](https://www.gentoo.org/downloads/)
+[Manual de instalacion de gentoo linux](https://wiki.gentoo.org/wiki/Handbook:Main_Page)
 
